@@ -3,7 +3,7 @@ title: joshuazero Blog
 SEOTitle: joshuazero的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: jushuazero@163.com
-description: "stay hungry stay foolish."
+description: "He shall be like a tree planted by the rivers of water, that bringeth his fruit in his season; his leaf also shall not wither."
 keyword: "JZ, JZ Blog, joshuazero的博客, joshuazero, iOS, Apple, iPhone"
 url: "http://joshuazero.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/joshuazero/joshuazero.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "To know wisdom and instruction; to perceive the words of understanding!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -74,7 +74,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: d72dffb55edcae8a7e280459a8173d35  #b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
